@@ -32,6 +32,24 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new hiking trails and capturing nature through photography in my free time.
 
+
+---
+
+<img align="right" height="150" width="150" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+- ### :man_technologist: &nbsp;About Me :
+- 🎓 I recently graduated with distinction (4.0/4.0 GPA) with an M.S. in Data Science, Analytics, and Engineering from Arizona State University.
+- 🔭 I’m actively seeking full-time opportunities in Data Engineering, Data Science, AI/ML Development, Cloud Development, and Backend Software Engineering.
+- 🌱 My experience spans scalable data pipelines, distributed systems, machine learning models, and cloud-native solutions (AWS, Azure, GCP).
+- 👯 I’m eager to collaborate on impactful projects at the intersection of data, AI, and scalable software engineering.
+- 💬 Ask me about building data pipelines, cloud infrastructure, or applied machine learning.
+- 📫 How to reach me: mailto:nayanbhiwapurkar@asu.edu or via  
+&nbsp; <a href="https://www.linkedin.com/in/nayan-bhiwapurkar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+&nbsp; <a href="mailto:nayanbhiwapurkar@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
+&nbsp; [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/16239203764)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new hiking trails and capturing nature through photography.
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
