@@ -25,10 +25,10 @@
 - 🌱 My experience spans scalable data pipelines, distributed systems, machine learning models, and cloud-native solutions (AWS, Azure, GCP).
 - 👯 I’m eager to collaborate on impactful projects at the intersection of data, AI, and scalable software engineering.
 - 💬 Ask me about building data pipelines, cloud infrastructure, or applied machine learning.
-- 📫 How to reach me: mailto:nayanbhiwapurkar@asu.edu or via  
-&nbsp; <a href="https://www.linkedin.com/in/nayan-bhiwapurkar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-&nbsp; <a href="mailto:nayanbhiwapurkar@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
-&nbsp; [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/16239203764)
+- 📫 How to reach me: mailto:nayanbhiwapurkar@asu.edu or via 
+&nbsp; <a href="https://www.linkedin.com/in/nayan-bhiwapurkar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+&nbsp; <a href="mailto:nayanbhiwapurkar@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a> 
+&nbsp; [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/16239203764) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new hiking trails and capturing nature through photography.
   
